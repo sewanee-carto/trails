@@ -1,6 +1,6 @@
-# Trail Data
+# Trail data in geojson format
 
-This directory contains trail data provided by the Landscape Analysis Lab in [geojson format](https://en.wikipedia.org/wiki/GeoJSON).
+This directory contains trail data provided by the Landscape Analysis Lab in [geojson](https://en.wikipedia.org/wiki/GeoJSON) format.
 
 The files were converted from the the original [shapefile archive](https://en.wikipedia.org/wiki/Shapefile) provided by the LAL.
 
