@@ -16,18 +16,20 @@ The files were converted from the the original [shapefile archive](https://en.wi
 * `trailheads.geojson` - points of transition or access between trail and
   non-trail paths
 
-See the [OpenTrails Cheat Sheet](http://www.outerspatial.com/opentrails/cheat) for a clean example of each of these files.
+See the [OpenTrails Cheat Sheet](http://www.outerspatial.com/opentrails/cheat) for examples of each file.  It shows the format and provides sample content for each file, giving us a model of what our files should ultimately look like.
 
 
 ## Conversion process
 
 We used the OpenTrails [online converter](http://open-trails.codeforamerica.org) to convert the original shapefile archive into the files listed above.
 
+Note that we used the original shapefile archive as provided.  We should
+probably review and work through the data prep steps described below and then try re-converting for better results.
+
 
 ## Data preparation steps
 
-Note that we used the original shapefile archive as provided.  It may be
-beneficial to review the OpenTrails [Guidebook](https://docs.google.com/document/d/1tZQRaHh76dP-t2_KhMR9zT2DktuOGwRjCAfvHU9_Tpg/edit) and follow the step-by-step guide to preparing shapefile data for conversion (see page 4). The steps covered are as follows:
+It may be beneficial to review the OpenTrails [Guidebook](https://docs.google.com/document/d/1tZQRaHh76dP-t2_KhMR9zT2DktuOGwRjCAfvHU9_Tpg/edit) and follow the step-by-step guide to preparing shapefile data for conversion (see page 4). The steps covered are as follows:
 
 * [x] create shapefiles
 * [ ] update fieldnames in your trail segment shapefile
