@@ -12,6 +12,8 @@ This will give us a chance to explore the [Open Trails](http://www.opentraildata
 
 ## See Also
 
+* [Perimeter Trail](http://www.sewanee.edu/student-life/sewanee-outing-program/50-mi-of-trail-on-campus/) - overview of the 50 miles of trails on campus by the Sewanee Outing Program
+
 * [Domain-related geodata collections](http://arcgis.sewanee.edu:6080/arcgis/rest/services) curated by the LAL
 
 * [Sewanee Campus on OSM](http://www.openstreetmap.org/#map=16/35.2072/-85.9159&layers=QND)
